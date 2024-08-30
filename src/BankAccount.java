@@ -179,4 +179,7 @@ public class BankAccount {
             e.printStackTrace();
         }
     }
+    public double getBalance() {
+        return balance;
+    }
 }
